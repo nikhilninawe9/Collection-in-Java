@@ -1,0 +1,5 @@
+Queue works on FIFO principal.
+
+Methods:
+To add .enqueue(value)
+To remove: dequeue()
